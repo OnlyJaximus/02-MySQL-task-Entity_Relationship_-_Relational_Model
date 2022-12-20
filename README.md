@@ -1,1 +1,1 @@
-# 02-MySQL-task-Entity_Relationship_-_Relational_Model
+# 02-MySQL-task-Entity_Relationship-and-Relational_Model
