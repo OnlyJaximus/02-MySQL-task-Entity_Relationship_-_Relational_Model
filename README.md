@@ -46,6 +46,10 @@ Odnos izmedju FILMA i FESTIVALA je < UCESTVUJE > </br>
   To znaci da se kreira nova tabela film_festival
 
 
+![1 isecen](https://user-images.githubusercontent.com/56784702/208711222-bdce8823-c9be-45e2-8e5f-535e9dfd34e4.png)
+![2](https://user-images.githubusercontent.com/56784702/208711243-cb39c901-50c5-4b11-83c3-cdee327b55c9.png)
+![3](https://user-images.githubusercontent.com/56784702/208711246-9f28db43-1e96-4a8d-8b2b-c517e7babc22.png)
+![4](https://user-images.githubusercontent.com/56784702/208711252-0bbc4a21-6899-43f9-a36d-40ac5c72a620.png)
 
 
 
